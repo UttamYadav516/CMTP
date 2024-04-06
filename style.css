@@ -1,0 +1,74 @@
+.container{
+    text-align: center;
+
+}
+
+.MeetourTeam{
+    border-top:dashed;
+    border-top-color: #dd09eb;
+    margin-top: 40px;
+    text-align: center;
+    font-weight: 900;
+    padding: 20px;
+}
+.lmd{
+    background-color: #dd09eb;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.foumder{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.teams{
+    margin: 20px;
+}
+.cn{
+    background-color: #dd09eb;
+    margin: 20px;
+    border-radius: 5px;
+    color: white;
+}
+.VPN{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.DT{
+    background-color: #dd09eb;
+    border-radius: 5px;
+    color: white;
+}
+.DN{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.SE{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+.SMT{
+    background-color: #dd09eb;
+    border-radius: 5px;
+    color: white;
+}
+.EN{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+.FN{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;  
+}
+.design{
+    font-style: italic;
+    color: rgb(232, 105, 232);
+}
